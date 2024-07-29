@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Ribes-Black';
+    src: url('/public/fonts/RibesBlack/Ribes-Black.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'allright';
+    src: url('/public/fonts/allright.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+    font-family: 'Cigra-FREEDEMO';
+    src:url('/public/fonts/cigar/WEB FONT/Cigra Free Demo.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+  }
+  
